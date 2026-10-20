@@ -30,3 +30,4 @@ também no momento da criação do objeto?
 
 R - Com o IF utilizado ele simplesmente não atrubiu o novo valor a variavel.
 Poderia criar um loop verificando se o valor informado é um inteiro maior que 0
+=============================================================================================
