@@ -12,21 +12,21 @@ que são mais especificas individualmente
 b. Por que utilizamos __idade em vez de deixar o atributo 
 totalmente acessível? 
 
-R- Para que não seja tão facilmente acessada/alterada, somente por uma função pré-definida dentro da classe
+R - Para que não seja tão facilmente acessada/alterada, somente por uma função pré-definida dentro da classe
 ============================================================================================
 c. Qual é a vantagem de utilizar herança nas classes 
 Cachorro, Gato e Passaro? 
 
-R- Não precisar refazer sempre caracteristicas gerais/abstratas em todas as classes
+R - Não precisar refazer sempre caracteristicas gerais/abstratas em todas as classes
 ============================================================================================
 d. Por que o método emitir_som() apresenta resultados 
 diferentes para cada animal? 
 
-porque foi definida individualmente em cada classe
+R - porque foi definida individualmente em cada classe
 ============================================================================================
 e. O que aconteceria se tentássemos cadastrar um animal com 
 idade negativa? Como o programa poderia impedir isso 
 também no momento da criação do objeto? 
 
-Com o IF utilizado ele simplesmente não atrubiu o novo valor a variavel.
+R - Com o IF utilizado ele simplesmente não atrubiu o novo valor a variavel.
 Poderia criar um loop verificando se o valor informado é um inteiro maior que 0
